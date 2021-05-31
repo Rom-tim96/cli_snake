@@ -1,0 +1,29 @@
+{
+  "name": "snake",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Rom-tim96/node-cli-snake.git"
+  },
+  "keywords": [
+    "snake",
+    "node",
+    "cli"
+  ],
+  "author": "tim.gods@yandex.ru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rom-tim96/node-cli-snake/issues"
+  },
+  "homepage": "https://github.com/Rom-tim96/node-cli-snake#readme",
+  "dependencies": {
+    "stream": "0.0.2"
+  },
+  "devDependencies": {},
+  "description": ""
+}
